@@ -140,3 +140,4 @@ class Timeranges
     {
         return call_user_func_array('array_merge', array_values(self::$timeRanges));
     }
+}
